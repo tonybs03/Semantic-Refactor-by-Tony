@@ -6,3 +6,6 @@ It is a semantic refactor project.
 
 Below is the link to my project final product.
 
+https://tonybs03.github.io/Semantic-Refactor-by-Tony/
+
+Thanks for viewing.
